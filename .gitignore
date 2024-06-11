@@ -1,0 +1,14 @@
+# ignore vhd project files
+*.vhdproj
+
+# ignore vhd project user files
+*.vhdproj.user
+
+# ignore vhd project user files
+*.vhdproj.webinfo
+
+# ignore vhd project user files
+*.vhdproj.webinfo.user
+
+# ignore vhd project user files
+*.vhdproj.webinfo.user
